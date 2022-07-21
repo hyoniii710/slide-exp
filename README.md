@@ -2,6 +2,7 @@
 :green_heart: 사진 5장이 무한으로 슬라이드 됩니다. <br>
 :purple_heart: cloneNode를 사용했습니다.<br>
 
+<br>![슬라이드](https://user-images.githubusercontent.com/89337508/180240569-ad345930-23e2-478b-9940-3858219e4c2e.gif)
+
 <br>
-<br>
-![슬라이드](https://user-images.githubusercontent.com/89337508/180240448-84b1863e-d102-4085-a095-1e57f95923ee.gif)
+
